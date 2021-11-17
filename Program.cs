@@ -8,7 +8,7 @@ namespace DemoBranch
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine();
-            Console.WriteLine("Hi")
+            Console.WriteLine("Hi");
         }
     }
 }
